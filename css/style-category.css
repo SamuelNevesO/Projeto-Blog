@@ -1,0 +1,19 @@
+body{
+    display:inline-block;
+    align-items: center;
+   
+}
+
+h1{font-size: 80px;}
+
+p{
+    align-items: center;
+}
+a{
+    color:black;
+}
+
+.card-img-top{
+    width: 1070px;
+    height: auto;
+}
